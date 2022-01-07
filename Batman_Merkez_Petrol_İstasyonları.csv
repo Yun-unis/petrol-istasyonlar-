@@ -1,0 +1,50 @@
+ID,istasyon_bayisi,yorum_sayisi,yorum_yildizi,il,ilçe,Adres,Telefon,y,x
+1,Aygaz,3,3,Batman,Merkez,Fatih Pir Sultan Bulvarı No:3, - ,37.89110585324186,41.15029722823911 
+2,Aygaz,27,4.4,Batman,Merkez,Şafak Ahmet Arif Blv. No:163,+904882131611,37.88735255951855,41.13683067203288
+3,Aygaz,2,3,Batman,Merkez,Bayındır Türkiye Petrolleri A.O. Bulvarı, -  ,37.877118237205856, 41.171033000908224
+4,Aygaz,0,0,Batman,Merkez,Türkiye Petrolleri Anonim Ortaklığı Blvarı Yediyol Köyü, - ,37.90767153478562, 41.12747512650367
+5,Aytemiz,2,3.5,Batman,Merkez,Merkez Mah. Tüpraş Rafinerisi Yanı,+904882151314,37.8764696948084, 41.1385762757346
+6,Aytemiz,2,5,Batman,Merkez,Gültepe Mah. Ahmet Necdet Sezer Blv. No:87,+904882150852,37.90728220931149, 41.11610600002838
+7,Aytemiz,2,3,Batman,Merkez,Gap. Turgut Özal Bulv. No:316, 444 2 298,37.897871783774, 41.130704000227055
+8,Aytemiz,29,4,Batman,Merkez,Akyürek. Felek Cd. No:18,+904882312157,37.87610436438282, 41.11638946481537
+9,Aytemiz,0,0,Batman,Merkez,Fatih 3341. Sk.,+904882137800,37.890976350791064, 41.15192432299877
+10,BP,14,4,Batman,Merkez,Gap Turgut Özal Blv. No:272,+904882131222,37.90107442725292, 41.13064585627303
+11,BP,9,3.2,Batman,Merkez,Türkiye Petrolleri A.O. Blv. 540 Bayındır Mahallesi,+904882127370,37.887856834273926, 41.16050480181645
+12,GO,3,4.3,Batman,Merkez,Cumhuriyet, - ,37.88486202557013, 41.13667007072061
+13,GO,17,4.2,Batman,Merkez,Cumhuriyet Mah. Milli Egemenlik Blv. no:221, 444 8 646,37.884684203768835, 41.136155086563036
+14,Kadoil,3,4.7,Batman,Merkez,Fatih. Pir Sultan Blv. No:3, - ,37.890677248650924, 41.15076186302679
+15,Kadoil,3,3.7,Batman,Merkez,Belde Türkiye Petrolleri A.O. Blv. No:212, - ,37.905111333061924, 41.134292010855155
+16,Kadoil,0,0,Batman,Merkez,Fatih Türkiye Petrolleri A.O. Blv. No:343, - , 37.889195978813746, 41.15660658510765
+17,Kadoil,0,0,Batman,Merkez,Bayındır Batman 2 Sanayi Sitesi, - ,37.896290950329806, 41.217602054414726
+18,Kadoil,31,3.7,Batman,Merkez,Kösetarla, - ,37.89662960476045, 41.21794537718644
+19,Milangaz,0,0,Batman,Merkez,Yavuz Selim Körükyolu Cd., - ,37.88939251051111, 41.14502500177004
+20,Moil,0,0,Batman,Merkez,Çamlıca Felek Cd. No:96,+908502884800,37.87319652598082, 41.0987517740993
+21,Moil,1,1,Batman,Merkez,Bayindir Mah. Emek Blv. No. 54,+904882147338,37.8705886685829, 41.16370800181645
+22,Moil,0,0,Batman,Merkez,Yavuz Selim Körük Cd. No:74,+904882131230,37.88820278052043, 41.144138603828715
+23,Moil,0,0,Batman,Merkez,Yavuz Selim Körükyolu Cd. No:74, - ,37.88982848617714, 41.145855217687284
+24,Moil,22,3.9,Batman,Merkez,Çamlıca 2472. Sk. No:167, - ,37.875466844385535, 41.09847667519067
+25,Moil,31,3.8,Batman,Merkez,Yediyol, - ,37.916376596997594, 41.13298061374798
+26,Opet,103,4,Batman,Merkez,Bayındır Mah. Özgürlük Blv.,444 6 738,37.86975666784261, 41.15074041072959
+27,Opet,218,4.2,Batman,Merkez,Gültepe Mah. Türkiye Petrolleri A.O. Blv. No:159,444 6 738,37.908638030525836, 41.12636449393784
+28,Opet,21,3.9,Batman,Merkez,Bayındır Özgürlük Blv. No:477,+904882131400,37.87260234178395, 41.14713552162657
+29,Opet,76,4.2,Batman,Merkez,Yoğurtlu Silvan Karayolu 10. Km, 444 6 738 ,37.96357081342134, 41.14520157904475
+30,Petrol Ofisi,30,3.9,Batman,Merkez,Belde Demokrasi Blv., +908502275213 ,37.91008759745574, 41.13301901686427
+31,Petrol Ofisi,0,0,Batman,Merkez,Gültepe Tpao Blv No:320A, +908502283874,37.90947812982526, 41.110016391159384
+32,Petrol Ofisi,3,5,Batman,Merkez,Çamlıtepe Mah. Tpao Blv. No:489, +908502278219,37.8808274566405, 41.16743712420777
+33,Petrol Ofisi,25,3.4,Batman,Merkez,Akyürek 212. Çk. No:38,+904882125765,37.88062422055596, 41.126581714373735
+34,Shell,122,4.2,Batman,Merkez,Pınarbaşı Turgut Özal Blv. 224-2,+904882421002,37.89320749035906, 41.1294944326296
+35,Siyam Petrolcülük,0,0,Batman,Merkez,Cumhuriyet Milli Egemenlik Blv. No:223,+904882145021,37.88501636203233, 41.13661787458084
+36,Sunpet,0,0,Batman,Merkez,Bayındır Özgürlük Blv. No:357,+902165229000,37.87580826382569, 41.14672222367994
+37,Total,142,4.5,Batman,Merkez,Yavuz Selim(CUDİ) Mh. Siirt İstikameti Koruk Kavsagi Sonrasi TOTAL NO: 412-B,+905333008180,37.889411406127515, 41.15481676930707
+38,Türkiye Petrolleri,8,4.4,Batman,Merkez,Yavuz Selim Mah. Ahmet Necdet Sezer Blv. No:343, 444 4 487 ,37.8887001602905, 41.15655484083887
+39,Türkiye Petrolleri,30,3.9,Batman,Merkez,Yavuz Selim Özgürlük Blv. No:147, 444 4 487 ,37.885471723268225, 41.139416413603676
+40,Türkiye Petrolleri,1,5,Batman,Merkez,Bayındır Emek Blv. No:54, 444 4 487  ,37.86891631257003, 41.163210428950144
+41,Türkiye Petrolleri,36,4.5,Batman,Merkez,Korik Mah. Türkiye Petrolleri A.O. Blv. no:94,+904882211300,37.888834948510414, 41.15662885778677
+42,Türkiye Petrolleri,1,5,Batman,Merkez,Kösetarla Köyü Sapağı Sok No:1, 444 4 487 ,37.89007470787079, 41.20666831917263
+43,BP,0,0,Batman,Merkez,Şafak Ahmet Arif Blv. No:150,+904882131611,37.888886679676524, 41.13694545344022
+44,Total,0,0,Batman,Merkez,Cudi Cudi Mh. No:74, - ,37.88979582373278, 41.14501920659814
+45,Petrol Ofisi,13,4.6,Batman,Merkez,İkiztepe,+904882157272,37.911051562842445, 41.10999232997563
+
+
+
+
